@@ -1,6 +1,3 @@
-
-###
-
 <h1 align="left">HI THERE</h1>
 
 ###
@@ -30,8 +27,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
-###
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31o7njerc5k35d7nudoxacrhytxq)
+
 ###
 
 <h2 align="left">Connect with me to discuss Tech, Linux, or Gym! 🚀</h2>

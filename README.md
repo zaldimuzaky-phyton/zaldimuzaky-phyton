@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2EydXU1emk1cWEwMHRneHJnOXBwZnNmczdzZGR4MW1ubDV4cjI5OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy.gif"  />
-</div>
 
 ###
 
@@ -33,7 +30,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
 </div>
-
+###
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31o7njerc5k35d7nudoxacrhytxq)
 ###
 
 <h2 align="left">Connect with me to discuss Tech, Linux, or Gym! 🚀</h2>
